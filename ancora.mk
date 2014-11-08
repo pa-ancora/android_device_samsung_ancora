@@ -160,7 +160,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += qcmediaplayer
 
 # Torch
-PRODUCT_PACKAGES += Torch
+PRODUCT_PACKAGES +=
+     Apollo \
+     CMFileManager
 
 PRODUCT_PACKAGES += LiveWallpapersPicker
 
