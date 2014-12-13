@@ -155,7 +155,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += qcmediaplayer
 
 # Torch
-PRODUCT_PACKAGES +=
+PRODUCT_PACKAGES += \
      Apollo \
      CMFileManager
 
