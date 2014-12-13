@@ -31,9 +31,6 @@ debug.composition.type=dyn
 # Low Power Audio
 lpa.decode=false
 
-# Resampler quality
-af.resampler.quality=255
-
 # Disable gapless mode
 audio.gapless.playback.disable=true
 
@@ -57,6 +54,9 @@ ro.config.low_ram=true
 
 # Force high-end graphics in low ram mode
 persist.sys.force_highendgfx=true
+
+# Set max background services
+ro.config.max_starting_bg=4
 
 # Disable metadata mode
 debug.camcorder.disablemeta=1
